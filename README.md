@@ -20,7 +20,7 @@ This is, as the title says, a collection of songs for Monika After Story. I will
 ## TODO List:
 
 ### Pet Shop Boys:
-- Here
+- Here (Currently working on it)
 - Home and Dry
 - You are the one
 - Go West
@@ -51,3 +51,5 @@ This is, as the title says, a collection of songs for Monika After Story. I will
 - Death and all his friends 
 - Don't panic 
 - Everything's not lost
+
+## Please note: the songs in the WIP folder are not finished! Using these songs in MAS may cause issues, so please wait until they are finished to use them, thank you!
