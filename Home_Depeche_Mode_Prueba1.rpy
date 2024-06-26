@@ -2,7 +2,7 @@ init 5 python:
     addEvent(
         Event(
             persistent._mas_songs_database,
-            eventlabel="Home_Depeche_Mode_Prueba1",
+            eventlabel="home_depeche_mode_prueba1",
             category=[mas_songs.TYPE_SHORT],
             prompt="Home",
             aff_range=(mas_aff.NORMAL, None),
@@ -11,7 +11,7 @@ init 5 python:
         code="SNG"
     )
 
-label Home_Depeche_Mode_Prueba1(from_long = False):
+label home_depeche_mode_prueba1(from_long = False):
     m 5hubsb "{i}~And I thank you~{/i}"
     m 5lubsa "{i}~For bringing me here~{/i}"
     m 5fubsd "{i}~For showing me home~{/i}"
@@ -29,7 +29,7 @@ init 5 python:
     addEvent(
         Event(
             persistent._mas_songs_database,
-            eventlabel="Home_Depeche_Mode_Prueba1_Long",
+            eventlabel="home_depeche_mode_prueba1_long",
             category=[store.mas_songs.TYPE_LONG],
             prompt="Home",
             random=False,
@@ -39,7 +39,7 @@ init 5 python:
         code="SNG"
     )
 
-label Home_Depeche_Mode_Prueba1_Long:
+label home_depeche_mode_prueba1_long:
 
     m 1dud "{i}~Here is a song{/i}"
     extend 3dud "{i} from the wrong side of town~{/i}"
