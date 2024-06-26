@@ -6,7 +6,7 @@ init 5 python:
             persistent._mas_songs_database,
             eventlabel="home_and_dry_pet_shop_boys_prueba1",
             category=[mas_songs.TYPE_SHORT],
-            prompt="E-Mail",
+            prompt="Home And Dry",
             aff_range=(mas_aff.AFFECTIONATE, None),
             random=True
         ),
@@ -15,27 +15,7 @@ init 5 python:
 
 label home_and_dry_pet_shop_boys_prueba1(from_long = False):
 
-    m 1dud "{i}~Now time and distance {/i}"
-    extend 3dub "{i} melt away~{/i}"
-    m 3kub "{i}~No digital delay~{/i}"
-    m 3mub "{i}~And some things{/i}"
-    extend 2mkb "{i} can be written down{/i}"
-    extend 2fkbsb "{i} that we're too shy to say~{/i}"
-    m 2hubsb "{i}~Send me an e-mail {/i}"    
-    extend 4dsbsd "{i} that says 'I love you'~{/i}"
-    m 4kubsb "{i}~Send me an e-mail{/i}"
-    extend 4subsb "{i} that says 'I love you'~{/i}"
 
-    if not from_long:
-        m 1hubsa "..."
-        m 7rua "Maybe the e-mail's are not as popular as they used to be."
-        m 1eua "But I still think they're a cute way to communicate."
-        m 1eub "Sending an e-mail just to say 'I love you' feels so genuine, don't you think?"
-        m 4dua "And talking about love..."
-        m 4subsb "{i}I {w=0.5}love {w=0.5}you.{/i}"
-        m 1dublb "Ehehe~"
-
-        return "love"
 
     return
 
@@ -45,7 +25,7 @@ init 5 python:
             persistent._mas_songs_database,
             eventlabel="home_and_dry_pet_shop_boys_prueba1_long",
             category=[mas_songs.TYPE_LONG],
-            prompt="E-Mail",
+            prompt="Home And Dry",
             random=False,
             unlocked=False,
             aff_range=(mas_aff.AFFECTIONATE,None) 
@@ -163,5 +143,7 @@ label home_and_dry_pet_shop_boys_prueba1_long:
     m 1tvl "{i}~Home and dry~{/i}"
 
     m 1tvm "{i}~Your baby waits tonight~{/i}"
+
+    m 1tvm "{i}~...~{/i}"
 
     return
