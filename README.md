@@ -52,4 +52,8 @@ This is, as the title says, a collection of songs for Monika After Story. I will
 - Don't panic 
 - Everything's not lost
 
+## Installation:
+Create a new folder under %path_to_DDLC%/game/Submods/ and name it "Prueba1Songs". Then, copy the songs that you want to the folder.
+Once you have done that, wait until Monika sings the song you want to hear, and enjoy!
+
 ## Please note: the songs in the WIP folder are not finished! Using these songs in MAS may cause issues, so please wait until they are finished to use them, thank you!
