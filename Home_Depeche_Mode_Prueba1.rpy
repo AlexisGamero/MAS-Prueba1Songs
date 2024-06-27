@@ -68,7 +68,7 @@ label home_depeche_mode_prueba1_long:
     extend 5dkc "{i} to a desperate beat~{/i}"
 
     m 5dku "{i}~And I thank you~{/i}"
-    m 5mkblu "{i}~for bringing me here~{/i}"
+    m 5mkblu "{i}~For bringing me here~{/i}"
     m 5fubsd "{i}~For showing me home~{/i}"
     m 5dubstdb "{i}~For singing these tears~{/i}"
     m 5mubstdb "{i}~Finally, I've found that I belong~{/i}"
@@ -86,10 +86,10 @@ label home_depeche_mode_prueba1_long:
     extend 1dubsb "{i} of the line~{/i}"
 
     m 5hubsb "{i}~And I thank you~{/i}"
-    m 5lubsa "{i}~for bringing me here~{/i}"
+    m 5lubsa "{i}~For bringing me here~{/i}"
     m 5fubsd "{i}~For showing me home~{/i}"
     m 5dubstdb "{i}~For singing these tears~{/i}"
-    m 5mubstdb "{i}~Finally, I've found that I~{/i}"
+    m 5mubstdb "{i}~Finally, I've found that I{/i}"
     extend 5dubstua "{i}{w=0.6} belo{w=0.2}ng here~{/i}"
     return
 
