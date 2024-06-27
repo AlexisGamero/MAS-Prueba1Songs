@@ -56,7 +56,7 @@ label home_depeche_mode_prueba1_long:
     m 5etsdlc "{i}~A cage or the heaviest cross ever made~{/i}"
     m 5eusdld "{i}~A gauge of the deadliest trap ever laid~{/i}"
 
-    call Home_Depeche_Mode_Prueba1(from_long = True)
+    call home_depeche_mode_prueba1(from_long = True)
 
     m 5dubstda "..."
 
@@ -64,7 +64,7 @@ label home_depeche_mode_prueba1_long:
     extend 5eud "{i} sweet smelling sheets~{/i}"
     m 5ltd "{i}That cling to the backs of my knees{/i}"
     extend 5mtd "{/i} and my feet~{/i}"
-    m 5ekc But "{i}}~I'm drowning in time{/i}"
+    m 5ekc "{i}}~But I'm drowning in time{/i}"
     extend 5dkc "{i} to a desperate beat~{/i}"
 
     m 5dku "{i}~And I thank you~{/i}"
