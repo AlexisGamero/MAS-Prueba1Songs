@@ -27,6 +27,7 @@ This is, as the title says, a collection of songs for Monika After Story. I will
 - Footsteps (maybe?)
 - Closer to heaven 
 - I wouldn't normally do this kind of thing 
+- Was It Worth It? (Definitely)
 
 ### Depeche Mode:
 - Ghosts Again
