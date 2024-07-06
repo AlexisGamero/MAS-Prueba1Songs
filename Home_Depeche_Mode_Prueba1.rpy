@@ -62,7 +62,7 @@ label home_depeche_mode_prueba1_long:
 
     m 5mud "{i}~The heat and the sickliest{/i}"
     extend 5eud "{i} sweet smelling sheets~{/i}"
-    m 5ltd "{i}That cling to the backs of my knees{/i}"
+    m 5ltd "{i}~That cling to the backs of my knees{/i}"
     extend 5mtd "{i} and my feet~{/i}"
     m 5ekc "{i}~But I'm drowning in time{/i}"
     extend 5dkc "{i} to a desperate beat~{/i}"
@@ -91,5 +91,7 @@ label home_depeche_mode_prueba1_long:
     m 5dubstdb "{i}~For singing these tears~{/i}"
     m 5mubstdb "{i}~Finally, I've found that I{/i}"
     extend 5dubstua "{i}{w=0.6} belo{w=0.2}ng here~{/i}"
+
+    m 5dubstda "..."
     return
 
