@@ -21,13 +21,13 @@ This is, as the title says, a collection of songs for Monika After Story. I will
 
 ### Pet Shop Boys:
 - Here (Currently working on it)
-- Home and Dry
+- Home and Dry (Currently working on it)
 - You are the one
 - Go West
 - Footsteps (maybe?)
 - Closer to heaven 
 - I wouldn't normally do this kind of thing 
-- Was It Worth It? (Definitely)
+- Was It Worth It? (Definitely) (Not sure what version to use)
 
 ### Depeche Mode:
 - Ghosts Again
@@ -57,4 +57,4 @@ This is, as the title says, a collection of songs for Monika After Story. I will
 Create a new folder under %path_to_DDLC%/game/Submods/ and name it "Prueba1Songs". Then, copy the songs that you want to the folder.
 Once you have done that, wait until Monika sings the song you want to hear, and enjoy!
 
-## Please note: the songs in the WIP folder are not finished! Using these songs in MAS may cause issues, so please wait until they are finished to use them, thank you!
+## Please note: the songs in the WIP folder are not finished! Using these songs in MAS may lead you to encounter a variety of issues, such as the game crashing, typos, freezing, etc. Please be patient and wait until the songs are finished to use them in MAS.
