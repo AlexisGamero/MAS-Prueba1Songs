@@ -63,8 +63,8 @@ label home_depeche_mode_prueba1_long:
     m 5mud "{i}~The heat and the sickliest{/i}"
     extend 5eud "{i} sweet smelling sheets~{/i}"
     m 5ltd "{i}That cling to the backs of my knees{/i}"
-    extend 5mtd "{/i} and my feet~{/i}"
-    m 5ekc "{i}}~But I'm drowning in time{/i}"
+    extend 5mtd "{i} and my feet~{/i}"
+    m 5ekc "{i}~But I'm drowning in time{/i}"
     extend 5dkc "{i} to a desperate beat~{/i}"
 
     m 5dku "{i}~And I thank you~{/i}"
@@ -74,13 +74,13 @@ label home_depeche_mode_prueba1_long:
     m 5mubstdb "{i}~Finally, I've found that I belong~{/i}"
     m 5fubstpb "{i}~Feels like ho{w=0.4}me~{/i}"
     m 5mubstub "{i}~I should have kn{w=0.4}own~{/i}" 
-    m 5dubstda "{i}~From my first breath{/i}"
+    m 5dubstda "{i}~From my first breath~{/i}"
 
     m 1dubsa "..."
 
     m 1dubso "{i}~God send the only true friend{/i}"
     extend 1dubsa "{i} I call mine~{/i}"
-    m 1ltbsa "{i}~Pretend that I'll make amends"
+    m 1ltbsa "{i}~Pretend that I'll make amends{/i}"
     extend 1eubsa "{i} the next time~{/i}"
     m 1eubsb "{i}~Befriend the glorious end{/i}"
     extend 1dubsb "{i} of the line~{/i}"
