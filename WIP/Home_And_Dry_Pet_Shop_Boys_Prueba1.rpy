@@ -16,15 +16,15 @@ init 5 python:
 label home_and_dry_pet_shop_boys_prueba1(from_long = False):
     
     #TODO: Corrige las expresiones de Mon
-    m 1tue "{i}~Oh tonight I miss you~{/i}"
-    m 1tuf "{i}~Oh tonight I wish you~{/i}"
+    m 1mua "{i}~Oh tonight I miss you~{/i}"
+    m 1gua "{i}~Oh tonight I wish you~{/i}"
 
-    m 1tug "{i}~Could be here with me{/i}"
-    extend 1tuh "{i} but I won't see you{/i}"
-    extend 1tui "{i} 'til you've made it back again~{/i}"
+    m 1tta "{i}~Could be here with me{/i}"
+    extend 1tkc "{i} but I won't see you{/i}"
+    extend 1duc "{i} 'til you've made it back again~{/i}"
 
-    m 1tuj "{i}~Home and dry~{/i}"
-    m 1tuk "{i}~Home and dry~{/i}"
+    m 1eua "{i}~Home and dry~{/i}"
+    m 1dubsa "{i}~Home and dry~{/i}"
 
     if not from_long:
         #TODO: Aquí va lo que opina mon sobre la canción
@@ -47,29 +47,21 @@ init 5 python:
 
 label home_and_dry_pet_shop_boys_prueba1_long:
     
-    m 1tua "{i}~So my baby's on the road{/i}"
-    extend 1tub "{i} doing business, selling loads~{/i}"
-    m 1tuc "{i}~Charming everyone there{/i}"
-    extend 1tud "{i} with the sweetest smile~{/i}"
+    m 1eub "{i}~So my baby's on the road{/i}"
+    extend 1eta "{i} doing business, selling loads~{/i}"
+    m 1eka "{i}~Charming everyone there{/i}"
+    extend 1dua "{i} with the sweetest smile~{/i}"
 
     call home_and_dry_pet_shop_boys_prueba1(from_long = True)
 
-    m 1tul "{i}...{/i}"
+    m 1dubsa "{i}...{/i}"
 
-    m 1tum "{i}~There's a plane at JFK{/i}"
-    extend 1tun "{i} to fly you back from far away~{/i}"
+    m 1lubsa "{i}~There's a plane at JFK{/i}"
+    extend 1tubsa "{i} to fly you back from far away~{/i}"
     m 1tuo "{i}~All those dark and frantic{/i}"
     extend 1tup "{i} transatlantic miles~{/i}"
 
-    m 1tuq "{i}~Oh tonight I miss you~{/i}"
-    m 1tur "{i}~Oh tonight I wish you~{/i}"
-
-    m 1tus "{i}~Could be here with me{/i}"
-    extend 1tut "{i} but I won't see you{/i}"
-    extend 1tuu "{i} 'til you've made it back again~{/i}"
-
-    m 1tuv "{i}~Home and dry~{/i}"
-    m 1tuw "{i}~Home and dry~{/i}"
+    call home_and_dry_pet_shop_boys_prueba1(from_long = True)
 
     m 1tux "{i}~Far away{/i}"
     extend 1tuy "{i}~through night and day~{/i}"
@@ -78,14 +70,8 @@ label home_and_dry_pet_shop_boys_prueba1_long:
     extend 1tvb "{i} you know I'll be here{/i}"
     extend 1tvc "{i} when you call tonight~{/i}"
 
-    m 1tvd "{i}~Oh tonight I miss you~{/i}"
-    m 1tve "{i}~Oh tonight I wish you~{/i}"
-    m 1tvf "{i}~Could be here with me{/i}"
-    extend 1tvg "{i} but I won't see you{/i}"
-    extend 1tvh "{i} 'til you've made it back again~{/i}"
+    call home_and_dry_pet_shop_boys_prueba1(from_long = True)
 
-    m 1tvi "{i}~Home and dry~{/i}"
-    m 1tvj "{i}~Home and dry~{/i}"
     m 1tvk "{i}~Home and dry~{/i}"
     m 1tvl "{i}~Home and dry~{/i}"
 

@@ -58,3 +58,5 @@ Create a new folder under %path_to_DDLC%/game/Submods/ and name it "Prueba1Songs
 Once you have done that, wait until Monika sings the song you want to hear, and enjoy!
 
 ## Please note: the songs in the WIP folder are not finished! Using these songs in MAS may lead you to encounter a variety of issues, such as the game crashing, typos, freezing, etc. Please be patient and wait until the songs are finished to use them in MAS.
+
+#### Sorry for my bad English, I'm still learning it. If you find any typos, please let me know so I can fix them. Thanks!
