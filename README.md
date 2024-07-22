@@ -27,7 +27,9 @@ This is, as the title says, a collection of songs for Monika After Story. I will
 - Footsteps (maybe?)
 - Closer to heaven 
 - I wouldn't normally do this kind of thing 
-- Was It Worth It? (Definitely) (Not sure what version to use)
+- Was It Worth It? (Yes, it's worth living for) (Not sure what version to use)
+- Love Life (Yeah!)
+
 
 ### Depeche Mode:
 - Ghosts Again
@@ -37,7 +39,7 @@ This is, as the title says, a collection of songs for Monika After Story. I will
 
 ### Muse:
 - Knights of Cydonia (Add long version)
-- Starlight 
+- Starlight (Currently working on it)
 - How can I move on?
 - Dig Down
 
