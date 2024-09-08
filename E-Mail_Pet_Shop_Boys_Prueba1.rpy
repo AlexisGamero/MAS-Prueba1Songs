@@ -54,7 +54,7 @@ init 5 python:
 label email_pet_shop_boys_prueba1_long:
 
     m 1tua "{i}~Communication's never been~{/i}"
-    m 3tub "{i}~As easy as today~{/i}"
+    extend 3tub "{i} as easy as today~{/i}"
     m 3sub "{i}~And it would make me happy{/i}"
     extend 3mub "{i} when you've gone so far away~{/i}"
     m 2fub "{i}~If you'd send me an e-mail{/i}"
