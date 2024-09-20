@@ -28,7 +28,7 @@ This is, as the title says, a collection of songs for Monika After Story. I will
 - Closer to heaven 
 - I wouldn't normally do this kind of thing 
 - Was It Worth It? (Yes, it's worth living for) (Not sure what version to use)
-- Love Life (Yeah!)
+- Love Life (Yeah!) (currently working on it)
 
 
 ### Depeche Mode:

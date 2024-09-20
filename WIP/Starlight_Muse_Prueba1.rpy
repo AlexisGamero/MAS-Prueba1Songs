@@ -1,3 +1,5 @@
+##TODO: corregir las expresiones de Mon, y revisar las letras de la canción.
+
 init 5 python:
     addEvent(
         Event(
@@ -22,18 +24,14 @@ label starlight_muse_prueba1(from_long = False):
     m 5hubsb "{i}~Never fade away~{/i}"
 
     if not from_long:
-        """
-            Acá va la opinión de Mon sobre la canción
-            Idea:
-            [Jugador], ¿Recuerdas que alguna vez te dije que para mí tu eras como una estrella?
-            ¿Brillante, cálida y lejana?
-            Bueno, esta canción me recuerda a ti.
-            Aunque no lo creas, tú también me has iluminado la vida.
-            Y no te preocupes, no te dejaré ir, nunca te dejaré ir.
-            Si prometes no desvanecerte, nunca te desvanecerás.
-            Ehehe~
-            Te amo, [Jugador].
-        """
+        m 1dublb "[Player], did you remember when I told you that for me you were like a star?"
+        m 1dublb "Bright, warm and distant?"
+        m 1dublb "Well, this song reminds me of you."
+        m 1dublb "Believe it or not, you have also illuminated my life."
+        m 1dublb "And don't worry, I won't let you go, I'll never let you go."
+        m 1dublb "If you promise not to fade away, never fade away."
+        m 1dublb "Ehehe~"
+        m 1dublb "I love you, [Player]."
         return love
 
     return 
