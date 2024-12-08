@@ -1,62 +1,65 @@
 # MAS-Prueba1Songs
 ## More Songs For Monika at Monika After Story!
 
-This is, as the title says, a collection of songs for Monika After Story. I will be adding more songs as time goes on, so stay tuned!
+This is, as the title says, a collection of songs for Monika After Story. I will be adding more songs over time, so stay tuned!
 
-## Songs implemented:
+## Implemented Songs:
 
 ### Pet Shop Boys:
-- E-Mail (Short and Long)
+- _E-Mail_ (Short and Long)
 
 ### Depeche Mode:
-- Home (Short and Long)
+- _Home_ (Short and Long)
 
 ### Tiësto:
-- In the Dark (Short)
+- _In the Dark_ (Short)
 
 ### Muse:
-- Knights of Cydonia (Short)
+- _Knights of Cydonia_ (Short)
 
 ## TODO List:
 
 ### Pet Shop Boys:
-- Here (Currently working on it)
-- Home and Dry (Currently working on it)
-- You are the one
-- Go West
-- Footsteps (maybe?)
-- Closer to heaven 
-- I wouldn't normally do this kind of thing 
-- Was It Worth It? (Yes, it's worth living for) (Not sure what version to use)
-- Love Life (Yeah!) (currently working on it)
+- _Here_ (Currently working on it)
+- _Home and Dry_ (Currently working on it)
+- _You are the one_
+- _Go West_
+- _Footsteps_ (maybe?)
+- _Closer to heaven_ 
+- _I wouldn't normally do this kind of thing _
+- _Was It Worth It?_ (Yes, it's worth living for) (Still deciding on the version to use)
+- _Love Life_ (Yeah!) (currently working on it)
 
 
 ### Depeche Mode:
-- Ghosts Again
-- Just can't get enough 
-- Everything Counts
-- Enjoy the silence 
+- _Ghosts Again_
+- _Just can't get enough_ 
+- _Everything Counts_ (Still deciding on the version to use)
+- _Enjoy the silence_ 
 
 ### Muse:
-- Knights of Cydonia (Add long version)
-- Starlight (Currently working on it)
-- How can I move on?
-- Dig Down
+- _Knights of Cydonia_ (Add long version)
+- _Starlight_ (Currently working on it)
+- _How can I move on?_
+- _Dig Down_
 
 ### Coldplay:
-- Viva la Vida
-- Charlie brown
-- Every tear is a waterfall 
-- Green eyes
-- Amsterdam 
-- Fix you
-- Coloratura
-- Death and all his friends 
-- Don't panic 
-- Everything's not lost
+- _Viva la Vida_
+- _Charlie brown_
+- _Every tear is a waterfall_ 
+- _Green eyes_ (For obvious reasons)
+- _Amsterdam_
+- _Fix you_
+- _Coloratura_
+- _Death and all his friends_ 
+- _Don't panic_
+- _Everything's not lost_
 
 ## Installation:
-Create a new folder under %path_to_DDLC%/game/Submods/ and name it "Prueba1Songs". Then, copy the songs that you want to the folder.
-Once you have done that, wait until Monika sings the song you want to hear, and enjoy!
+1. Create a new folder under %path_to_DDLC%/game/Submods/ and name it "Prueba1Songs".
+2. Copy the songs you want to use into the folder.
+3. Once you’ve done that, wait until Monika sings the song you want to hear and enjoy!
+4. For future uses, just ask Monika for singing to you
 
-#### Sorry for my bad English, I'm still learning it. If you find any typos, please let me know so I can fix them. Thanks!
+#### Important Notes
+There is a branch called *WIP-dev*, that are not finished! Using these unfinished songs in MAS may cause issues such as crashes, typos, freezing, or other unexpected behavior. Please be patient and wait for the finalized versions before using them in MAS.
